@@ -26,6 +26,10 @@ The demo shows that CPU reach peak point when load image (almost 400% on Macbook
     IDEs:
       Xcode: 10.1/10B61 - /usr/bin/xcodebuild
     npmPackages:
-      react: 16.6.1 => 16.6.1 
-      react-native: 0.57.5 => 0.57.5 
+      react: 16.6.1 => 16.6.1
+      react-native: 0.57.5 => 0.57.5
 ```
+
+### License
+
+MIT License
