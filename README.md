@@ -30,6 +30,15 @@ The demo shows that CPU reach peak point when load image (almost 400% on Macbook
       react-native: 0.57.5 => 0.57.5
 ```
 
+### Run
+
+You should read camera roll docs on official react native homepage and do follow two step.
+
+1. Linking Libraries (Manually)
+2. Add permissions
+
+> https://facebook.github.io/react-native/docs/cameraroll
+
 ### License
 
 MIT License
