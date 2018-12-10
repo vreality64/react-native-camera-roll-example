@@ -7,6 +7,7 @@ The demo shows that CPU reach peak point when load image (almost 400% on Macbook
 ### Demo
 
 ![cpu profiling with xcode](https://user-images.githubusercontent.com/886706/48934895-180daa80-ef49-11e8-9f3a-459c2a68042b.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvreality64%2Freact-native-camera-roll-example.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvreality64%2Freact-native-camera-roll-example?ref=badge_shield)
 
 ### environment
 
@@ -42,3 +43,5 @@ You should read camera roll docs on official react native homepage and do follow
 ### License
 
 MIT License
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvreality64%2Freact-native-camera-roll-example.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvreality64%2Freact-native-camera-roll-example?ref=badge_large)
